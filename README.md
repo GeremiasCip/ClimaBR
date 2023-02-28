@@ -2,6 +2,11 @@
 
 Aplicação web para consulta da previsão do tempo de cidades brasileiras.
 
+# Integrantes:
+Geremias Cipriano 
+Jamilly Danielle Antonio
+Gustavo Henrique Moises
+
 # Como utilizar?
 
 Há duas maneiras de preparar o ambiente para utilização da aplicação *ClimaBR*, a saber:
